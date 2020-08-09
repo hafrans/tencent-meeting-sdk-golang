@@ -54,12 +54,12 @@ func MeetingCreate() {
 
 		/*
 		会议主题 测试会议
-		会议ID 9643171792387579848
-		会议号 725214060
-		开始时间 1596809701
-		结束时间 1596810001
+		会议ID 964XXXXXXXXX2387579848
+		会议号 725XXX060
+		开始时间 159XXX9701
+		结束时间 1596XXX10001
 		密码 <nil>
-		入会连接 https://meeting.tencent.com/s/qNl8n01a89f1
+		入会连接 https://meeting.tencent.com/s/qNl8n01ad9f1
 		*/
 
 	}
