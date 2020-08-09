@@ -100,7 +100,7 @@ func main() {
 ## API列表
 ### 企业会议管理
 |序号|功能|请求（Request）|响应（Response）|
-|:---:|:------:|:-----------------|:--------------------|
+|:---:|:----------|:-------------|:-------------|
 |1|创建会议|MeetingCreateRequest|MeetingCreateResponse|
 |2|通过会议ID查询会议|MeetingQueryByIDRequest|MeetingQueryByIDResponse|
 |3|通过会议Code查询会议|MeetingQueryByCodeRequest|MeetingQueryByCodeResponse|
