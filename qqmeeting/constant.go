@@ -41,6 +41,7 @@ const (
 	ErrTinyIdOrMeetingId       = 9002
 	ErrMeetingNotExists        = 9003
 	ErrMeetingCreateExceed     = 9008
+	ErrNoPermission            = 9042
 	ErrMeetingQueryExceed      = 9061
 	ErrApiCallUnknownType      = 10000
 	ErrApiCallBadParameter     = 10001
@@ -53,6 +54,7 @@ const (
 	ErrPhoneUsed               = 41003
 	ErrCorpID                  = 50000
 	ErrCorpUnavailable         = 50001
+	ErrCancelMeetingDestroyed  = 13603
 	ErrXTcTimestamp            = 190300
 	ErrRequestReplay           = 190301
 	ErrUnauthenticatedSecret   = 190303
